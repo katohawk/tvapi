@@ -1,6 +1,6 @@
 {
   "tbl_site": [
-      {
+    {
       "id": "6620f507-8278-4f25-99e6-fd57c49e6d74",
       "key": "hipy_js_4k剧院",
       "name": "A-剧院4k(drpy_t3)",
@@ -285,7 +285,7 @@
       "ext": "",
       "categories": "",
       "isActive": true
-    },
+    }
   ],
   "tbl_iptv": [
     {
